@@ -1,0 +1,62 @@
+.headerDiv {
+    background-color: rgb(159, 19, 19);
+    padding: 15px;
+}
+
+.headerDiv a {
+    color: white;
+    font-family: Verdana;
+    float: right;
+}
+
+h1 {
+    color: white;
+    font-family: Verdana;
+    font-size: 35px;
+    background-color: rgb(159, 19, 19);
+    display: inline-block;
+}
+
+h2 {
+    color: black;
+    font-family: Verdana;
+    font-size: 25px;
+}
+
+p {
+    color: black;
+    font-family: Verdana;
+    font-size: 15px;
+    margin-bottom: 2.2em;
+}
+
+.linkDiv {
+    background-color: rgb(58, 54, 54);
+    height: 30px;
+    padding: 8px;
+}
+
+.linkDiv a {
+    font-family: Verdana;
+    color: white;
+    float: right;
+    padding-right: 8px;
+}
+
+.asideDiv {
+    float: right;
+    padding: 8px;
+}
+
+.asideDiv img {
+    margin-bottom: 2.2em;
+}
+
+.footerDiv {
+    background-color: rgb(58, 54, 54);
+    padding: 10px;
+}
+
+.footerDiv p {
+    color: white;
+}
